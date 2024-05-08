@@ -1,1 +1,1 @@
-Personal webpage (named after my cat)
+Personal website
