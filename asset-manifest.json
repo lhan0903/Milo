@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.071646f5.css",
-    "main.js": "/website/static/js/main.13dcd7f6.js",
+    "main.css": "/website/static/css/main.89f6eb0d.css",
+    "main.js": "/website/static/js/main.8d625c5b.js",
     "static/media/linda-logo.png": "/website/static/media/linda-logo.eaf810bfa6238e13296f.png",
     "index.html": "/website/index.html",
-    "main.071646f5.css.map": "/website/static/css/main.071646f5.css.map",
-    "main.13dcd7f6.js.map": "/website/static/js/main.13dcd7f6.js.map"
+    "main.89f6eb0d.css.map": "/website/static/css/main.89f6eb0d.css.map",
+    "main.8d625c5b.js.map": "/website/static/js/main.8d625c5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.071646f5.css",
-    "static/js/main.13dcd7f6.js"
+    "static/css/main.89f6eb0d.css",
+    "static/js/main.8d625c5b.js"
   ]
 }
