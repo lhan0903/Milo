@@ -1,6 +1,18 @@
+import { ReactTyped } from "react-typed";
+
+
 const Introduction = () => {
   return ( 
-    <h1 className="intro-title">Hi, I'm Linda</h1>
+    <div className="introduction">
+      <h1 className="intro-title">
+        👋 {''}
+        <ReactTyped strings={["Hi, I'm Linda"]} typeSpeed={120} loop backSpeed={60} />
+      </h1>
+      <br></br>
+      <p>A 3rd year computer science student at UBC who loves exploring new technology💻, 
+        eating chili🥫, and going on outdoor adventures⛰️! When I'm not coding, 
+        you'll find me <a href="/">baking</a>, gaming, and capturing silly photos of my cat <a href="/">Milo</a> 🐈. </p>
+    </div>
   );
 }
  

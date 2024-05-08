@@ -8,13 +8,20 @@
   color: #333;
 }
 
-.logo, .intro-title {
+.logo {
   width: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.intro-title {
-  padding-top: 1%;
+.introduction {
+  text-align: center;
+  padding-top: 2%;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+a:hover {
+  color: #7d7d7d;
 }
