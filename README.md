@@ -1,6 +1,7 @@
-Personal Website
+# Personal Website
 
-# Notes
+### TODO
+- Create github action for auto deployment on push to main
 
 ### Hosting the react app on github
 followed this tutorial: https://github.com/gitname/react-gh-pages
