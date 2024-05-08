@@ -1,4 +1,9 @@
 Personal Website
 
 # Notes
-https://github.com/gitname/react-gh-pages - followed this tutorial for hosting the react app on github
+
+### Hosting the react app on github
+followed this tutorial: https://github.com/gitname/react-gh-pages
+
+### To deploy website
+`npm run deploy` - the gh-pages branch will be deployed
