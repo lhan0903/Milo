@@ -4,8 +4,10 @@ import Introduction from './Introduction';
 function App() {
   return (
     <div className="App">
-      <img src={logo} alt="linda-logo" className="logo" />
-      < Introduction />
+      <div className="intro">
+        <img src={logo} alt="linda-logo" className="logo" />
+        < Introduction />
+      </div>
     </div>
   );
 }
