@@ -16,3 +16,6 @@ followed this tutorial: https://github.com/gitname/react-gh-pages
 
 ### Helpful debuggin
 add `border: 1px dashed #333;` to visualize a div
+
+### Domain + SSL
+registered with namecheap

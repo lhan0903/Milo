@@ -2,6 +2,7 @@ import logo from './assets/linda-logo.png';
 import Introduction from './Introduction';
 import Icons from './Icons';
 import Navbar from './Navbar';
+import WorkExperience from './WorkExperience';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         < Navbar />
         <h3 className="message">🚧 This page is currently under construction 🚧</h3>
         < Icons />
+        < WorkExperience />
     </div>
   );
 }
