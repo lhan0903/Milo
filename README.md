@@ -14,8 +14,12 @@ followed this tutorial: https://github.com/gitname/react-gh-pages
 ### To view website locally
 `npm run start`
 
-### Helpful debuggin
+### Helpful css debugging
 add `border: 1px dashed #333;` to visualize a div
 
 ### Domain + SSL
 registered with namecheap
+
+### Packages used
+react-typed - typing effect
+react-chrono - timeline
