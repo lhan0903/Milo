@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.acf18c89.css",
-    "main.js": "/website/static/js/main.299b499e.js",
-    "static/media/Linda_Han_Resume.pdf": "/website/static/media/Linda_Han_Resume.43a18d24e79f26d4585a.pdf",
+    "main.css": "/website/static/css/main.798cc57f.css",
+    "main.js": "/website/static/js/main.e94ed35a.js",
+    "static/media/Linda_Han_Resume.pdf": "/website/static/media/Linda_Han_Resume.7f9422d10a60caf65513.pdf",
     "static/media/linda-logo.png": "/website/static/media/linda-logo.eaf810bfa6238e13296f.png",
+    "static/media/robokids-logo.png": "/website/static/media/robokids-logo.39b47510a7b581bc2b08.png",
     "static/media/icon-linkedin.png": "/website/static/media/icon-linkedin.63b96b9ea7fdfd7a5ee0.png",
+    "static/media/ubc-logo.png": "/website/static/media/ubc-logo.9d54b2f5c36ca2f44154.png",
     "static/media/icon-email.png": "/website/static/media/icon-email.1f43f6350d23dfba5d84.png",
     "index.html": "/website/index.html",
-    "main.acf18c89.css.map": "/website/static/css/main.acf18c89.css.map",
-    "main.299b499e.js.map": "/website/static/js/main.299b499e.js.map"
+    "main.798cc57f.css.map": "/website/static/css/main.798cc57f.css.map",
+    "main.e94ed35a.js.map": "/website/static/js/main.e94ed35a.js.map"
   },
   "entrypoints": [
-    "static/css/main.acf18c89.css",
-    "static/js/main.299b499e.js"
+    "static/css/main.798cc57f.css",
+    "static/js/main.e94ed35a.js"
   ]
 }
